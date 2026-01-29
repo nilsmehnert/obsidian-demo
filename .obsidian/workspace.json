@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Testen ob der Zettelkasten funktioniert.md",
+                "file": "Extras/Garbagecollector/Mathe 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testen ob der Zettelkasten funktioniert"
+              "title": "Mathe 1"
             }
           }
         ]
@@ -196,21 +196,30 @@
   },
   "active": "883a54c948311452",
   "lastOpenFiles": [
+    "Datenbank/Klassen/Klasse 3A.md",
+    "Extras/Garbagecollector/Mathe 1.md",
     "Startpunkt.md",
-    "Zettelkasten/Testen ob der Zettelkasten funktioniert.md",
-    "Extras/Bases/Zettelbasten_base.base",
+    "Extras/Bases/Klasse 3A.base",
     "Extras/Garbagecollector/Unbenannt.base",
+    "Datenbank/Schüler/Schüler-D.md",
+    "Datenbank/Klassen",
+    "Datenbank/Schüler/Schüler-C.md",
+    "Datenbank/Schüler/Schüler-A.md",
+    "Datenbank/Schüler/Schüler-B.md",
+    "Datenbank/Lehrer/Musterlehrerer-C.md",
+    "Datenbank/Lehrer/Musterlehrerer-B.md",
+    "Datenbank/Lehrer/Musterlehrerer-A.md",
+    "Extras/Templates/Schüler*innen.md",
+    "Extras/Templates/Zettel.md",
+    "Extras/Bases/Zettelbasten_base.base",
+    "Zettelkasten/Testen ob der Zettelkasten funktioniert.md",
     "Datenbank/Lehrer",
     "Datenbank/Schüler",
     "Datenbank",
     "Wissenspool",
-    "Extras/Templates/Zettel.md",
     "Extras/Templates/Mitarbeiter.md",
-    "Extras/Templates/Schüler*innen.md",
     "Zettelkasten",
     "Extras/Anhänge",
-    "Extras/Garbagecollector",
-    "Extras/Templates",
     "obsidian-demo/README.md"
   ]
 }

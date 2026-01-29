@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabelle
+    filters:
+      and:
+        - file.folder == "Datenbank/Schüler"
+        - Klasse == "3A"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: DESC
