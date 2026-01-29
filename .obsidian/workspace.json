@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/Schüler*innen.md",
+                "file": "Zettelkasten/Testen ob der Zettelkasten funktioniert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schüler*innen"
+              "title": "Testen ob der Zettelkasten funktioniert"
             }
           }
         ]
@@ -196,16 +196,21 @@
   },
   "active": "883a54c948311452",
   "lastOpenFiles": [
+    "Startpunkt.md",
+    "Zettelkasten/Testen ob der Zettelkasten funktioniert.md",
+    "Extras/Bases/Zettelbasten_base.base",
+    "Extras/Garbagecollector/Unbenannt.base",
+    "Datenbank/Lehrer",
+    "Datenbank/Schüler",
+    "Datenbank",
+    "Wissenspool",
+    "Extras/Templates/Zettel.md",
     "Extras/Templates/Mitarbeiter.md",
     "Extras/Templates/Schüler*innen.md",
-    "Startpunkt.md",
+    "Zettelkasten",
     "Extras/Anhänge",
     "Extras/Garbagecollector",
     "Extras/Templates",
-    "Extras/Bases/Unbenannt",
-    "Extras/Bases",
-    "Extras",
-    "obsidian-demo/README.md",
-    "obsidian-demo"
+    "obsidian-demo/README.md"
   ]
 }

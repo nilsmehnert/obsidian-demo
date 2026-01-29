@@ -1,1 +1,4 @@
-Hier geht es gleich los
+## Zettelkasten
+
+
+![[Extras/Bases/Zettelbasten_base.base]]

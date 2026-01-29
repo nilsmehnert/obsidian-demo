@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Geburtstag": "date"
+    "Geburtstag": "date",
+    "Datum": "date",
+    "Priorität": "number"
   }
 }

@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Tabelle
+    filters:
+      and:
+        - file.folder == "Zettelkasten"
+    order:
+      - file.name
+      - Priorität
+      - Datum
+    sort:
+      - property: Priorität
+        direction: DESC
+      - property: Datum
+        direction: ASC
+    columnSize:
+      file.name: 454
